@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RGPD/static/css/main.020dc42c.css",
+    "main.js": "/RGPD/static/js/main.c75c57c9.js",
+    "static/js/787.8fb4aeac.chunk.js": "/RGPD/static/js/787.8fb4aeac.chunk.js",
+    "static/media/Exp_rgpd.png": "/RGPD/static/media/Exp_rgpd.5cb5f9c551bab129d934.png",
+    "static/media/Exp_bw.png": "/RGPD/static/media/Exp_bw.f090e3785a0c9c3a6707.png",
+    "index.html": "/RGPD/index.html",
+    "main.020dc42c.css.map": "/RGPD/static/css/main.020dc42c.css.map",
+    "main.c75c57c9.js.map": "/RGPD/static/js/main.c75c57c9.js.map",
+    "787.8fb4aeac.chunk.js.map": "/RGPD/static/js/787.8fb4aeac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020dc42c.css",
+    "static/js/main.c75c57c9.js"
+  ]
+}
